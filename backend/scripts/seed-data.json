@@ -1,0 +1,282 @@
+{
+  "locations": [
+    {
+      "locationId": "chipotle-la-sunset-001",
+      "name": "Chipotle - Sunset Blvd",
+      "address": "7927 W Sunset Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90046",
+      "lat": 34.0977,
+      "lng": -118.3617,
+      "chain": "chipotle",
+      "phone": "(323) 822-1292",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-hollywood-002",
+      "name": "Chipotle - Hollywood",
+      "address": "6201 Hollywood Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90028",
+      "lat": 34.1016,
+      "lng": -118.3259,
+      "chain": "chipotle",
+      "phone": "(323) 464-3226",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-dtla-003",
+      "name": "Chipotle - Downtown LA",
+      "address": "800 W 7th St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90017",
+      "lat": 34.0474,
+      "lng": -118.2584,
+      "chain": "chipotle",
+      "phone": "(213) 623-9535",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-venice-004",
+      "name": "Chipotle - Venice Beach",
+      "address": "1305 Abbot Kinney Blvd",
+      "city": "Venice",
+      "state": "CA",
+      "zipCode": "90291",
+      "lat": 33.9957,
+      "lng": -118.4672,
+      "chain": "chipotle",
+      "phone": "(310) 450-8656",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-santa-monica-005",
+      "name": "Chipotle - Santa Monica",
+      "address": "1411 3rd Street Promenade",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zipCode": "90401",
+      "lat": 34.0144,
+      "lng": -118.4968,
+      "chain": "chipotle",
+      "phone": "(310) 394-8444",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-westwood-006",
+      "name": "Chipotle - Westwood",
+      "address": "1040 Broxton Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90024",
+      "lat": 34.0628,
+      "lng": -118.4455,
+      "chain": "chipotle",
+      "phone": "(310) 824-2266",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-beverly-hills-007",
+      "name": "Chipotle - Beverly Hills",
+      "address": "9478 Brighton Way",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zipCode": "90210",
+      "lat": 34.0696,
+      "lng": -118.3988,
+      "chain": "chipotle",
+      "phone": "(310) 273-3383",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-mid-wilshire-008",
+      "name": "Chipotle - Mid-Wilshire",
+      "address": "5933 Wilshire Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90036",
+      "lat": 34.0617,
+      "lng": -118.3431,
+      "chain": "chipotle",
+      "phone": "(323) 938-8880",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-koreatown-009",
+      "name": "Chipotle - Koreatown",
+      "address": "3580 Wilshire Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90010",
+      "lat": 34.0616,
+      "lng": -118.3017,
+      "chain": "chipotle",
+      "phone": "(213) 385-8992",
+      "hours": "10:30 AM - 10:00 PM"
+    },
+    {
+      "locationId": "chipotle-la-culver-city-010",
+      "name": "Chipotle - Culver City",
+      "address": "9697 Culver Blvd",
+      "city": "Culver City",
+      "state": "CA",
+      "zipCode": "90232",
+      "lat": 34.0211,
+      "lng": -118.4034,
+      "chain": "chipotle",
+      "phone": "(310) 836-3400",
+      "hours": "10:30 AM - 10:00 PM"
+    }
+  ],
+  "menuItems": [
+    {
+      "id": "chicken-burrito",
+      "name": "Chicken Burrito",
+      "category": "burrito",
+      "protein": "chicken"
+    },
+    {
+      "id": "steak-burrito",
+      "name": "Steak Burrito",
+      "category": "burrito",
+      "protein": "steak"
+    },
+    {
+      "id": "carnitas-burrito",
+      "name": "Carnitas Burrito",
+      "category": "burrito",
+      "protein": "carnitas"
+    },
+    {
+      "id": "barbacoa-burrito",
+      "name": "Barbacoa Burrito",
+      "category": "burrito",
+      "protein": "barbacoa"
+    },
+    {
+      "id": "chicken-bowl",
+      "name": "Chicken Bowl",
+      "category": "bowl",
+      "protein": "chicken"
+    },
+    {
+      "id": "steak-bowl",
+      "name": "Steak Bowl",
+      "category": "bowl",
+      "protein": "steak"
+    },
+    {
+      "id": "carnitas-bowl",
+      "name": "Carnitas Bowl",
+      "category": "bowl",
+      "protein": "carnitas"
+    },
+    {
+      "id": "chicken-tacos",
+      "name": "Chicken Tacos",
+      "category": "tacos",
+      "protein": "chicken"
+    },
+    {
+      "id": "steak-tacos",
+      "name": "Steak Tacos",
+      "category": "tacos",
+      "protein": "steak"
+    },
+    {
+      "id": "veggie-bowl",
+      "name": "Veggie Bowl",
+      "category": "bowl",
+      "protein": "veggie"
+    }
+  ],
+  "badges": [
+    {
+      "id": "first-review",
+      "name": "First Review",
+      "description": "Submit your first review",
+      "icon": "🌟",
+      "requirement": { "type": "review_count", "value": 1 }
+    },
+    {
+      "id": "hot-streak",
+      "name": "Hot Streak",
+      "description": "Review for 7 days in a row",
+      "icon": "🔥",
+      "requirement": { "type": "streak_days", "value": 7 }
+    },
+    {
+      "id": "explorer",
+      "name": "Explorer",
+      "description": "Visit 5 different locations",
+      "icon": "🗺️",
+      "requirement": { "type": "unique_locations", "value": 5 }
+    },
+    {
+      "id": "photographer",
+      "name": "Photographer",
+      "description": "Submit 10 reviews with photos",
+      "icon": "📸",
+      "requirement": { "type": "photo_reviews", "value": 10 }
+    },
+    {
+      "id": "critic",
+      "name": "Critic",
+      "description": "Write 10 detailed reviews",
+      "icon": "✍️",
+      "requirement": { "type": "detailed_reviews", "value": 10 }
+    },
+    {
+      "id": "top-ten",
+      "name": "Top 10",
+      "description": "Reach top 10 on leaderboard",
+      "icon": "🏆",
+      "requirement": { "type": "rank", "value": 10 }
+    },
+    {
+      "id": "number-one",
+      "name": "#1 Ranked",
+      "description": "Reach #1 on leaderboard",
+      "icon": "👑",
+      "requirement": { "type": "rank", "value": 1 }
+    },
+    {
+      "id": "perfectionist",
+      "name": "Perfectionist",
+      "description": "Give 10 reviews rated 10/10",
+      "icon": "💯",
+      "requirement": { "type": "perfect_ratings", "value": 10 }
+    },
+    {
+      "id": "burrito-master",
+      "name": "Burrito Master",
+      "description": "Rate 50 burritos",
+      "icon": "🌯",
+      "requirement": { "type": "category_reviews", "category": "burrito", "value": 50 }
+    },
+    {
+      "id": "bowl-boss",
+      "name": "Bowl Boss",
+      "description": "Rate 50 bowls",
+      "icon": "🥗",
+      "requirement": { "type": "category_reviews", "category": "bowl", "value": 50 }
+    },
+    {
+      "id": "taco-titan",
+      "name": "Taco Titan",
+      "description": "Rate 50 tacos",
+      "icon": "🌮",
+      "requirement": { "type": "category_reviews", "category": "tacos", "value": 50 }
+    },
+    {
+      "id": "local-legend",
+      "name": "Local Legend",
+      "description": "Submit 100 reviews in Los Angeles",
+      "icon": "📍",
+      "requirement": { "type": "city_reviews", "city": "Los Angeles", "value": 100 }
+    }
+  ]
+}
