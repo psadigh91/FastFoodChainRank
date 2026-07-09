@@ -342,8 +342,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📞 Support
 
 - **Issues:** [GitHub Issues](https://github.com/yourusername/chainrank/issues)
-- **Email:** your.email@example.com
+- **Email:** psadigh91@gmil.com
 
 ---
 
-**Made with ❤️ and 🌯 by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ and 🌯 by Parham (https://github.com/psadigh91)**
