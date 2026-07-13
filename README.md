@@ -1,6 +1,6 @@
 # 🌯 ChainRank - Find the Best Fast Food Location
 
-> A hyper-local restaurant rating app that helps you find the best menu items at chain restaurants in your city. Starting with Chipotle in Los Angeles.
+> Tired of getting different quality menu options from the same chain? ChainRank solve this problem: A hyper-local restaurant rating app that helps you find the best menu items at chain restaurants in your city. Starting with Chipotle in Los Angeles.
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
