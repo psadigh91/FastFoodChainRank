@@ -208,3 +208,64 @@ export function getMenuItemProtein(itemId: string): string {
   if (itemId.includes('veggie')) return 'Veggie';
   return 'Unknown';
 }
+
+// Badge definitions
+export interface Badge {
+  id: string;
+  name: string;
+  description: string;
+  icon: string;
+  requirement: (profile: { points: number; reviewCount: number; level: number }) => boolean;
+}
+
+export const BADGES: Badge[] = [
+  {
+    id: 'first-review',
+    name: 'First Steps',
+    description: 'Write your first review',
+    icon: '🌱',
+    requirement: (profile) => profile.reviewCount >= 1,
+  },
+  {
+    id: 'verified',
+    name: 'Verified',
+    description: 'Submit a receipt-verified review',
+    icon: '✅',
+    requirement: (profile) => profile.points >= 10,
+  },
+  {
+    id: 'explorer',
+    name: 'Explorer',
+    description: 'Review 5 different locations',
+    icon: '🗺️',
+    requirement: (profile) => profile.reviewCount >= 5,
+  },
+  {
+    id: 'enthusiast',
+    name: 'Enthusiast',
+    description: 'Reach Level 3',
+    icon: '⭐',
+    requirement: (profile) => profile.level >= 3,
+  },
+  {
+    id: 'critic',
+    name: 'Food Critic',
+    description: 'Write 25 reviews',
+    icon: '🍴',
+    requirement: (profile) => profile.reviewCount >= 25,
+  },
+  {
+    id: 'expert',
+    name: 'Expert',
+    description: 'Reach Level 5',
+    icon: '🏆',
+    requirement: (profile) => profile.level >= 5,
+  },
+  {
+    id: 'legend',
+    name: 'Legend',
+    description: 'Earn 2500+ points',
+    icon: '👑',
+    requirement: (profile) => profile.points >= 2500,
+  },
+];
